@@ -1,7 +1,11 @@
 C# : 5Y
+
 Unity : 5Y
+
 C : ~1Y (Not really on it)
+
 C++ : ~? (Not really on it and used it a long time ago)
+
 ASM : ~? (Not really on it and only used it for stuff)
 
 Knowledges :
