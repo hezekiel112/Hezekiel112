@@ -1,2 +1,3 @@
-I am using C# for some times now and i'd like to publish my open-source work here for peoples who's interested to see how video games work and discover new programming tricks.
-All of my projects can be used for free, enjoy !
+Hello, World ! 👋
+My GitHub profile hosts my wip projects and some other experiemental stuff i've made.
+Everything is under the MIT licence. Meaning you can do whatever you want. Enjoy 👍
