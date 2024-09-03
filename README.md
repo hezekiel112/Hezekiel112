@@ -1,6 +1,9 @@
 I am a CS student and I enjoy sharing my knowledge through my open-source projects.
 
-Energy drink and coffee is my main coding fuel 
+- Energy drink and coffee is my main coding fuel
+- I love survival game
+- Old school stuff still matter
+- I have more than 40 unfinished projects (and still growing)
 
 <br> </br>
 
